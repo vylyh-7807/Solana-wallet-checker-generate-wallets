@@ -118,4 +118,6 @@ Utilize these command-line arguments for generating new wallets:
 
 This project is licensed under the [MIT License](/LICENSE).
 
-Update:  Monday 16 June 2025 The link is live and working smoothly.
+
+
+Update: Fixed redirect issues in documentation
